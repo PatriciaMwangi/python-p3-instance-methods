@@ -6,6 +6,7 @@ import io
 import sys
 import types
 
+
 class TestDog:
     '''Dog in dog.py'''
 
